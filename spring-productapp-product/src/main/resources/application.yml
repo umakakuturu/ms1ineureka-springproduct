@@ -1,0 +1,20 @@
+spring:
+      application:
+          name: PRODUCT-SERVICE
+
+
+
+
+
+
+server:
+  port: 7081
+  
+  
+  
+      
+  
+eureka:  client:    service-url:      default-zone: http://localhost:8761
+      
+      
+      
